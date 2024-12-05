@@ -19,7 +19,9 @@ public final class AccountsConstants {
     public static final String  MESSAGE_417_DELETE= "Delete operation failed. Please try again or contact Dev team";
 
     public static final String  Status_500 = "Internal Server Error";
-    public static final String  MESSAGE_500= "Update operation failed. Please try again or contact Dev team";
+    public static final String  MESSAGE_500= "Delete operation failed. Please try again or contact Dev team";
+    public static final String  Status_417 = "Expectation Failed Error";
+    public static final String  MESSAGE_417_= "Update operation failed. Please try again or contact Dev team";
 
     // public static final String  STATUS_500 = "500";
     // public static final String  MESSAGE_500 = "An error occurred. Please try again or contact Dev team";
